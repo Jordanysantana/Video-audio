@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Video o Audio</title>
+  </head>
+  <!--Jordany Santana-->
+  <body>
+    <h1>Este es el video de la musica me fui de vacaciones de Bad Bunny</h1>
+    <br />
+    <br />
+    <iframe
+      width="708"
+      height="398"
+      src="https://www.youtube.com/embed/7K7Sl0FPsVo"
+      title="Bad Bunny - Me Fui de Vacaciones (360° Visualizer) | Un Verano Sin Ti"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen
+    ></iframe>
+    <p>
+      Me fui de vacaciones. Es una canción del cantante puertorriqueño Bad Bunny
+      de su quinto álbum de estudio Un verano sin ti (2022).
+    </p>
+    <a href="https://www.youtube.com/watch?v=7K7Sl0FPsVo">Ver Video </a>
+    <p>Lista de las canciones del álbum Un verano sin ti.</p>
+    <ol>
+      <li>Moscow Mule</li>
+      <li>Me Porto Bonito</li>
+      <li>Un Ratito</li>
+      <li>Tarot</li>
+      <li>Despues de la Playa</li>
+      <li>Titi me Pregunto</li>
+      <li>Yo no soy Celoso</li>
+      <li>Neverita</li>
+    </ol>
+
+    <br />
+    <br />
+    <img
+      src="https://lh3.googleusercontent.com/a/ACg8ocLqOq55pI-MMTVRMpY70pelhRzt7X6TCuvyrXzjK91kh7aFYEgf=s421-c-no"
+      alt="Jordany Santana"
+    />
+
+    <!--Jordany Santana-->
+  </body>
+</html>
